@@ -1,5 +1,8 @@
 # 🎯 Plano de Estudos: Backend Moderno (30 Dias)
 
+> [!NOTE]
+> Este plano de estudos é o **primeiro curso** do **[Bootcamp Santander 2026 - AI Java Back-end](../README.md)**.
+
 Bem-vindo ao seu espaço de estudos! Este repositório foi estruturado para materializar o plano de 30 dias desenvolvido para consolidar sua compreensão dos pilares do **Backend Moderno**. 
 
 Aqui você acompanhará seu progresso, fará anotações diárias, organizará seus materiais de referência e executará projetos práticos para dominar o desenvolvimento de APIs RESTful, containerização, microsserviços, mensageria e deploy em nuvem.
